@@ -1,0 +1,14 @@
+#sorter {
+    display:none;
+
+}
+button {
+    margin-top:20px;
+    margin-bottom:20px;
+}
+input {
+    margin:10px;
+}
+body {
+    background-color:#ff85eb;
+}
